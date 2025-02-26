@@ -3,21 +3,21 @@
 ![Moulinette](moulinette.png)
 
 ## Introduction
-The main goal of the `libft` project at `42Lausanne` is to create a custom `C` library by reimplementing essential standard library functions. This provides a solid foundation for future projects, ensuring a deeper understanding of low-level programming and memory management. Additionally, the project may include utility functions for linked lists, memory management, and string manipulation.
+The main goal of the `Libft` project at `42Lausanne` is to create a custom `C` library by reimplementing essential standard library functions. This provides a solid foundation for future projects, ensuring a deeper understanding of low-level programming and memory management. Additionally, the project may include utility functions for linked lists, memory management, and string manipulation.
 
 ## Key Components of `Libft`:
-✅ String functions – `ft_strlen`, `ft_strcpy`, `ft_strjoin`, etc.
+✅ String functions – `ft_strlen`, `ft_strcpy`, `ft_strjoin`, etc.\
 ✅ Memory functions – `ft_memset`, `ft_memcpy`, `ft_calloc`, etc.
 ✅ Character checks – `ft_isalpha`, `ft_isdigit`, `ft_tolower`, etc.
 ✅ Linked lists (bonus) – `ft_lstnew`, `ft_lstadd_back`, `ft_lstmap`, etc.
 
 ## Structure:
-- `.c` Files: Functions implementations.
-- `.h` (Header) File: Includes all the necessary libraries and function prototypes.
+- `.c` files: Functions implementations.
+- `.h` (header) files: Includes all the necessary libraries and function prototypes.
 - `Makefile`: Compile the project/script.
 
 ## Functions
-The `libft` library consists of:
+The `Libft` library consists of:
 
 ### **LIBC Functions**
 - `ft_isalpha`: Checks if a given character is a letter (either uppercase or lowercase).
