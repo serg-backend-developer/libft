@@ -7,8 +7,8 @@ The main goal of the `Libft` project at `42Lausanne` is to create a custom `C` l
 
 ## Key Components of `Libft`:
 ✅ String functions – `ft_strlen`, `ft_strcpy`, `ft_strjoin`, etc.\
-✅ Memory functions – `ft_memset`, `ft_memcpy`, `ft_calloc`, etc.
-✅ Character checks – `ft_isalpha`, `ft_isdigit`, `ft_tolower`, etc.
+✅ Memory functions – `ft_memset`, `ft_memcpy`, `ft_calloc`, etc.\
+✅ Character checks – `ft_isalpha`, `ft_isdigit`, `ft_tolower`, etc.\
 ✅ Linked lists (bonus) – `ft_lstnew`, `ft_lstadd_back`, `ft_lstmap`, etc.
 
 ## Structure:
